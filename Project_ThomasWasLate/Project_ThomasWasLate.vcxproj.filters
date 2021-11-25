@@ -33,12 +33,18 @@
     <ClCompile Include="TextureHolder.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="PlayableCharacter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Engine.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="TextureHolder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayableCharacter.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
