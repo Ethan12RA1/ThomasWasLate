@@ -1,5 +1,5 @@
 #ifndef PLAYABLE_CHARACTER_H
-#define PLAYERABLE_CHARACTER_H
+#define PLAYABLE_CHARACTER_H
 #include <SFML/Graphics.hpp>
 
 using namespace sf;
